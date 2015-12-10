@@ -18,6 +18,6 @@ if you already using make command, then you can find a bpnet file in the directo
 
 to run.
 	
-# Protocol
+# License
 
-Observed by using the GPL Protocol publishing.
+Publishing by GPLv2.
